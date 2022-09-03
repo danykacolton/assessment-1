@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-var gitDefinition = "Git is a system by which you can view snapshots of each stage of your code."
+//CODE HERE
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@ var gitDefinition = "Git is a system by which you can view snapshots of each sta
     It should be a string containing your best definition of what GitHub is.
 */
 
-var gitHubDefinition = "Github is where you view the snapshots of your code at each stage you committed."
+//CODE HERE
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,7 @@ var gitHubDefinition = "Github is where you view the snapshots of your code at e
     It should be a string containing your best definition of what 'git init' does.
 */
 
-var gitInitDefinition = "Git Init is the command where you initialie a git repository in your file."
+//CODE HERE
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@ var gitInitDefinition = "Git Init is the command where you initialie a git repos
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-var gitCloneDefinition = "Git Clone is the command that lets you clone existing code so you can change or contribute to it."
+//CODE HERE
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@ var gitCloneDefinition = "Git Clone is the command that lets you clone existing 
     It should be a string containing your best definition of what 'git status' does.
 */
 
-var gitStatusDefinition = "Git Status lets you know the status of your repository, like what is being tracked, what has been committed, etc."
+//CODE HERE
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,9 +52,7 @@ var gitStatusDefinition = "Git Status lets you know the status of your repositor
     It should be a string containing the code to add all files.
 */
 
-var gitAddDefinition = "Git Add is the command that lets you add files to be tracked and committed later."
-
-var gitAddCode = "git add --all"
+//CODE HERE
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,9 +63,7 @@ var gitAddCode = "git add --all"
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-var gitCommitDefinition = "Git Commit saves all of your changes to the files you've been tracking. It creates the snapshot that you can view in github."
-
-var gitCommitCode = "git commit -m initial commit"
+//CODE HERE
 
 
 //////////////////PROBLEM 8////////////////////
@@ -76,4 +72,4 @@ var gitCommitCode = "git commit -m initial commit"
     It should be a string containing your best definition of what 'git push' does.
 */
 
-var gitPushDefinition = "Git Push is used to push your code to github."
+//CODE HERE
